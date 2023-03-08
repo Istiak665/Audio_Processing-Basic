@@ -85,7 +85,7 @@ for input_dir in input_dirs:
     else:
         print("Error: No audio data to write to file.")
 
-## //.............Mixing of Three audios from Three Different Folders..............//
+## //.............Mixing of Four audios from Four Different Folders..............//
 
 directory1 = 'input_directory_1'
 directory2 = 'input_directory_2'
